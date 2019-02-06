@@ -5,14 +5,12 @@
       <a href="#">
         <img class="avatar border-gray" src="static/img/faces/face-3.jpg" alt="..."/>
 
-        <h4 class="title">Mike Andrew<br />
-          <small>michael24</small>
+        <h4 class="title">Sean Quinn<br />
+          <small>seanq101</small>
         </h4>
       </a>
     </div>
-    <p class="description text-center"> "Lamborghini Mercy <br>
-      Your chick she so thirsty <br>
-      I'm in that two seat Lambo"
+    <p class="description text-center"> "It's a feature, not a bug."
     </p>
     <div slot="footer" class="text-center">
       <button href="#" class="btn btn-simple"><i class="fa fa-facebook-square"></i></button>

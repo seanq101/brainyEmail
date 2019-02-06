@@ -6,8 +6,8 @@
         <div class="col-md-5">
           <fg-input type="text"
                     label="Company"
-                    :disabled="true"
-                    placeholder="Light dashboard"
+                    :disabled="false"
+                    placeholder="Light s"
                     v-model="user.company">
           </fg-input>
         </div>
@@ -108,16 +108,16 @@
     data () {
       return {
         user: {
-          company: 'Light dashboard',
-          username: 'michael23',
+          company: 'Cal Poly',
+          username: 'seanq101',
           email: '',
-          firstName: 'Mike',
-          lastName: 'Andrew',
-          address: 'Melbourne, Australia',
-          city: 'melbourne',
-          country: 'Australia',
-          postalCode: '',
-          aboutMe: `Lamborghini Mercy, Your chick she so thirsty, I'm in that two seat Lambo.`
+          firstName: 'Sean',
+          lastName: 'Quinn',
+          address: '313 Foothill Blvd',
+          city: 'SLO',
+          country: 'United States',
+          postalCode: '94305',
+          aboutMe: `It's a feature, not a bug.`
         }
       }
     },

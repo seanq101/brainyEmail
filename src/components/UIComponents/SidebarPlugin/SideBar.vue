@@ -40,7 +40,7 @@
     props: {
       title: {
         type: String,
-        default: 'Vue LBD'
+        default: 'EMX Bot'
       },
       backgroundColor: {
         type: String,
@@ -52,7 +52,7 @@
       },
       backgroundImage: {
         type: String,
-        default: 'static/img/sidebar-5.jpg'
+        default: 'blue' /* 'static/img/sidebar-5.jpg' */
       },
       activeColor: {
         type: String,

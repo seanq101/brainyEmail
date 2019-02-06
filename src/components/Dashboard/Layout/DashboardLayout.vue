@@ -10,6 +10,7 @@
         <i class="nc-icon nc-circle-09"></i>
         <p>User Profile</p>
       </sidebar-link>
+      <!--
       <sidebar-link to="/admin/table-list">
         <i class="nc-icon nc-notes"></i>
         <p>Table list</p>
@@ -30,6 +31,7 @@
         <i class="nc-icon nc-bell-55"></i>
         <p>Notifications</p>
       </sidebar-link>
+      -->
     </side-bar>
     <div class="main-panel">
       <top-navbar></top-navbar>

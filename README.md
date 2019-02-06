@@ -43,3 +43,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 [LICENSE]: ./LICENSE.md
 [version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg
+
+
+IF YOU JUST RAN BUILD AND WANT TO PUT DIST.ZIP ON SERVER:
+	scp -i "/Users/SeanQuinn/.ssh/id_ecdsa" dist.zip ubuntu@brainyemail.com:/var/www/brainyemail.com
